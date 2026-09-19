@@ -1,0 +1,6 @@
+- Videos cataloged: 3
+- Tools identified: 3
+- Combined stars: 542
+- Most starred tool: MrBeastChannel/mrbeast-youtube-analytics
+- Language breakdown: Python=2, TypeScript=1
+- Tools whose default branch is not main: yt-data-fetcher
